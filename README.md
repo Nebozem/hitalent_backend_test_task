@@ -15,4 +15,4 @@
 
 ```bash
 docker-compose up --build
-
+После запуска: http://localhost:8000/docs
